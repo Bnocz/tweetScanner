@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 
-const API_KEY = "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";
+const API_KEY = "";
 function App() {
     const [tweet, setTweet] = useState('');
     const [sentiment, setSentiment] = useState("");
